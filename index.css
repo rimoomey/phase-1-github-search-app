@@ -11,3 +11,8 @@
 ul {
   list-style: none;
 }
+
+.user-list {
+  padding: 10px;
+  justify-content: center;;
+}
